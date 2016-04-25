@@ -1,12 +1,59 @@
 {
-  "name": "react-native-md-textinput",
-  "version": "1.9.2",
-  "description": "React Native TextInput styled with Material Design.",
-  "main": "lib/TextField.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/evblurbs/react-native-md-textinput.git"
+  "_args": [
+    [
+      "react-native-md-textinput",
+      "/home/sina/projects/nativ/phoenix/phoenix"
+    ]
+  ],
+  "_from": "react-native-md-textinput@latest",
+  "_id": "react-native-md-textinput@1.9.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-md-textinput",
+  "_nodeVersion": "4.2.4",
+  "_npmOperationalInternal": {
+    "host": "packages-5-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-md-textinput-1.9.2.tgz_1455688748469_0.028278534999117255"
   },
+  "_npmUser": {
+    "email": "johnson.evan1@gmail.com",
+    "name": "evblurbs"
+  },
+  "_npmVersion": "2.14.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-md-textinput",
+    "raw": "react-native-md-textinput",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-md-textinput/-/react-native-md-textinput-1.9.2.tgz",
+  "_shasum": "7de90b4fd1f739fe121fe0cfa49853cd09858a1c",
+  "_shrinkwrap": null,
+  "_spec": "react-native-md-textinput",
+  "_where": "/home/sina/projects/nativ/phoenix/phoenix",
+  "author": {
+    "name": "Evan Johnson"
+  },
+  "bugs": {
+    "url": "https://github.com/evblurbs/react-native-md-textinput/issues"
+  },
+  "dependencies": {},
+  "description": "React Native TextInput styled with Material Design.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "7de90b4fd1f739fe121fe0cfa49853cd09858a1c",
+    "tarball": "http://registry.npmjs.org/react-native-md-textinput/-/react-native-md-textinput-1.9.2.tgz"
+  },
+  "gitHead": "b74490986885413403afc453d81b1a3f14f04996",
+  "homepage": "https://github.com/evblurbs/react-native-md-textinput#readme",
   "keywords": [
     "react-native",
     "TextInput",
@@ -14,10 +61,21 @@
     "material",
     "design"
   ],
-  "bugs": {
-    "url": "https://github.com/evblurbs/react-native-md-textinput/issues"
-  },
-  "author": "Evan Johnson",
   "license": "MIT",
-  "homepage": "https://github.com/evblurbs/react-native-md-textinput#readme"
+  "main": "lib/TextField.js",
+  "maintainers": [
+    {
+      "email": "johnson.evan1@gmail.com",
+      "name": "evblurbs"
+    }
+  ],
+  "name": "react-native-md-textinput",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evblurbs/react-native-md-textinput.git"
+  },
+  "scripts": {},
+  "version": "1.9.2"
 }
