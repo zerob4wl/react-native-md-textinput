@@ -3,9 +3,13 @@
     [
       "react-native-md-textinput",
       "/home/sina/projects/nativ/phoenix/phoenix"
+    ],
+    [
+      "https://github.com/zerob4wl/react-native-md-textinput.git",
+      "/home/sina/projects/kikoja/KeyVaKoja"
     ]
   ],
-  "_from": "react-native-md-textinput@latest",
+  "_from": "git+https://github.com/zerob4wl/react-native-md-textinput.git",
   "_id": "react-native-md-textinput@1.9.2",
   "_inCache": true,
   "_installable": true,
@@ -22,22 +26,30 @@
   "_npmVersion": "2.14.12",
   "_phantomChildren": {},
   "_requested": {
-    "name": "react-native-md-textinput",
-    "raw": "react-native-md-textinput",
-    "rawSpec": "",
+    "hosted": {
+      "directUrl": "https://raw.githubusercontent.com/zerob4wl/react-native-md-textinput/master/package.json",
+      "gitUrl": "git://github.com/zerob4wl/react-native-md-textinput.git",
+      "httpsUrl": "git+https://github.com/zerob4wl/react-native-md-textinput.git",
+      "shortcut": "github:zerob4wl/react-native-md-textinput",
+      "ssh": "git@github.com:zerob4wl/react-native-md-textinput.git",
+      "sshUrl": "git+ssh://git@github.com/zerob4wl/react-native-md-textinput.git",
+      "type": "github"
+    },
+    "name": null,
+    "raw": "https://github.com/zerob4wl/react-native-md-textinput.git",
+    "rawSpec": "https://github.com/zerob4wl/react-native-md-textinput.git",
     "scope": null,
-    "spec": "latest",
-    "type": "tag"
+    "spec": "git+https://github.com/zerob4wl/react-native-md-textinput.git",
+    "type": "hosted"
   },
   "_requiredBy": [
-    "#USER",
-    "/"
+    "#USER"
   ],
-  "_resolved": "https://registry.npmjs.org/react-native-md-textinput/-/react-native-md-textinput-1.9.2.tgz",
-  "_shasum": "7de90b4fd1f739fe121fe0cfa49853cd09858a1c",
+  "_resolved": "git+https://github.com/zerob4wl/react-native-md-textinput.git#bc57e935841f96a8ed2ca90ad0b33a3bbd29b870",
+  "_shasum": "d2f09b976456b619c27bd33ec5c9bf4483f24869",
   "_shrinkwrap": null,
-  "_spec": "react-native-md-textinput",
-  "_where": "/home/sina/projects/nativ/phoenix/phoenix",
+  "_spec": "https://github.com/zerob4wl/react-native-md-textinput.git",
+  "_where": "/home/sina/projects/kikoja/KeyVaKoja",
   "author": {
     "name": "Evan Johnson"
   },
